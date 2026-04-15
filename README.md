@@ -10,6 +10,9 @@ ficha de artículo en Business Central.
 - **ImageManagement.CodeUnit.al** - Codeunit con el procedimiento para importar imágenes
 - **ItemCardPictureExtension.PageExt.al** - Extensión de la página Ficha de artículo con la acción de importar
 
+## Imagen importada
+![Imagen silla importada](img/silla.png)
+
 ## Configuración
 - Runtime: 16.1
 - Application: 27.0.0.0
