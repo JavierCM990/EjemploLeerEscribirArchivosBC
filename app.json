@@ -1,0 +1,32 @@
+{
+  "id": "27b793c4-e83f-4784-aac1-bd782dc8c4a0",
+  "name": "Leer y escribir archivos",
+  "publisher": "Cronus International Ltd.",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "27.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "16.1",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
